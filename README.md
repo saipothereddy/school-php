@@ -1,5 +1,5 @@
 # school-management-web-application
-School management web application using php,msqli
+School management web application using php,mysql
 
 
 Features:                                                                                                                                 
