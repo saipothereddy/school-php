@@ -24,7 +24,7 @@ Installation:
   1.Create a database 'school'                                                                                                             
   2.Open \core\init.php & replace info with urs.       
   
-Live: http://schoolz.likesyou.org                                                                                                         
+Live: http://52.201.221.49                                                                                                        
 LOGIN ACCOUNT                                                                                                                           
     Email: admin@gmail.com                                                                                                                 
     Password: root
